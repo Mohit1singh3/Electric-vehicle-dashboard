@@ -32,5 +32,8 @@ The dataset was sourced from Kaggle, likely containing attributes related to ele
 - ⚡ Vehicle Type Breakdown: Clear distinction between BEV and PHEV in numbers and percentages
 - 📈 Growth Trends: Line chart reveals EV growth from 2010–2024
 - 🏭 Make & Model Insights: Bar chart and treemap highlight dominant brands and popular models
-- 🛡️ CAFV Eligibility: Pie chart presents vehicle compliance status for clean air incentives
+- 🛡️ CAFV Eligibility: Pie chart presents vehicle compliance status for clean air incentives.
+
+- 6 screenshots / demo
+- dashboard looks like this :  (https://github.com/Mohit1singh3/Electric-vehicle-dashboard/blob/main/final%20dashboard.png)
 
